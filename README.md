@@ -35,4 +35,10 @@ Aplikasi ini dikembangkan dengan tujuan untuk:
 - Pencarian data secara cepat
 - Penyimpanan data secara efisien di database
 - Antarmuka berbasis web yang mudah digunakan
+- 
+## 👨‍💻 Kontributor
 
+- Ihsanul Rizky Merdiansyah  
+  RPL 2 — Tahun Ajaran 2024/2025
+
+---
