@@ -39,6 +39,6 @@ Aplikasi ini dikembangkan dengan tujuan untuk:
 ## 👨‍💻 Kontributor
 
 - Ihsanul Rizky Merdiansyah  
-  RPL 2 — Tahun Ajaran 2024/2025
+  12 RPL 2 — Tahun Ajaran 2024/2025
 
 ---
