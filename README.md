@@ -1,5 +1,5 @@
 "# 2425_RPL-2_IHSANUL-RIZKY-MERDIANSYAH" 
-# Aplikasi Input Berkas Brimen - Bank BRI
+# Aplikasi Input Berkas Brimen
 
 Seiring berkembangnya teknologi, perbankan menghadapi kebutuhan mendesak untuk beradaptasi dengan inovasi digital guna meningkatkan pelayanan kepada nasabah dan efisiensi operasional. Bank Rakyat Indonesia (BRI) sebagai salah satu bank terbesar di Indonesia turut mendukung digitalisasi proses internal dan pelayanan kepada nasabah.
 
